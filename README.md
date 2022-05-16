@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vuvandatlp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vũ Văn Đạt
+- 👀 I’m interested in books.
+- 🌱 I’m currently learning Korea
+- 💞️ I’m looking to collaborate on Mondays.
+- 📫 How to reach me 
+- 
 
 <!---
 vuvandatlp/vuvandatlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
